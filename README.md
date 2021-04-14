@@ -1,6 +1,7 @@
 # `eksctl` - The official CLI for Amazon EKS
 
 [![Circle CI](https://circleci.com/gh/weaveworks/eksctl/tree/master.svg?style=shield)](https://circleci.com/gh/weaveworks/eksctl/tree/master) [![Coverage Status](https://coveralls.io/repos/github/weaveworks/eksctl/badge.svg?branch=master)](https://coveralls.io/github/weaveworks/eksctl?branch=master) [![Go Report Card](https://goreportcard.com/badge/github.com/weaveworks/eksctl)](https://goreportcard.com/report/github.com/weaveworks/eksctl)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmike-stewart%2Feksctl.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmike-stewart%2Feksctl?ref=badge_shield)
 
 `eksctl` is a simple CLI tool for creating clusters on EKS - Amazon's new managed Kubernetes service for EC2. It is written in Go, and uses CloudFormation.
 
@@ -125,3 +126,7 @@ One or more release candidate(s) (RC) builds will be made available prior to eac
 > **_Logo Credits_**
 >
 > _Original Gophers drawn by [Ashley McNamara](https://twitter.com/ashleymcnamara), unique E, K, S, C, T & L Gopher identities had been produced with [Gopherize.me](https://gopherize.me/)._
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmike-stewart%2Feksctl.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmike-stewart%2Feksctl?ref=badge_large)
